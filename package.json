@@ -1,0 +1,9 @@
+{
+  "name": "aaa-node-parent",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "aaa-contract-client",
+    "aaa-node-client"
+  ]
+}
